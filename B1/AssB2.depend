@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1548270166 source:d:\esercizi c\assb2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stddef.h>
+

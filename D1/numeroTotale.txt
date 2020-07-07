@@ -1,0 +1,2 @@
+Numero totale di prodotti: 11
+Numero di prodotti sotto la soglia: 11
